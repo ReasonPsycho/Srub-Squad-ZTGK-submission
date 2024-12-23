@@ -3,7 +3,7 @@
 A video game developed in our own game engine. Submitted for [ZTGK](https://gry.it.p.lodz.pl/main/index.php/en/) in the development category and placed as a finalist. 
 
 Download the [final build](https://github.com/ReasonPsycho/ZTGK/releases/latest) submited to ZTGK.
-[Itch.io page](https://bubble-bliss-games.itch.io/scrub-squad)
+[Itch.io page.](https://bubble-bliss-games.itch.io/scrub-squad)
 
 Our project had to complie with the requirements for game development category:
 

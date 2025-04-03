@@ -20,3 +20,20 @@ This project showcases our work in creating a custom engine and core systems fro
 ![WX1Kn9](https://github.com/user-attachments/assets/39596982-bf56-463f-b4bc-277c33a3a6cf)
 ![U_OGTc](https://github.com/user-attachments/assets/0e635e3a-6ff8-497d-b1a8-dee1ea9ce4c0)
 ![ioD1OI](https://github.com/user-attachments/assets/4de6501c-a2d9-4004-bcb5-6fcadfdc8e75)
+
+## List of major features
+
+- **Entity Component System:** Custom component system managing game entities with unique and shared pointers for memory handling.
+- **Scene Editor:** Allows real-time modification of object transforms and component attributes, as well as adding new components.
+- **Tracey Profiler:** Integrated profiling to monitor performance across system components.
+- **Lighting System:** Supports dynamic point lights with shadows, handling up to 40 active lights during presentation. Directional and spotlights were partially implemented.
+- **Rendering System:** Renders imported **.fbx** models with material support (diffuse, specular, normal, and depth maps). Uses frustum culling, instancing, and parallax mapping for optimization.
+- **Toon Shaders:** Custom toon shaders inspired by [RapidGL](https://github.com/tgalaj/RapidGL).
+- **Animation System:** Multithreaded animations with forward kinematics for weapon movements.
+- **Sound System:** Plays sound effects and music on demand.
+- **Collision System:** Tracks object collisions and interaction rules.
+- **AI System:** Manages movement and behavior of game units.
+- **Grid System:** Makes implementation of rest of the system easier, and allows for optimization using chunks.
+- **Event System:** Calls functions in response to specific in-game events.
+- **Inventory System:** Allows unit upgrades and customization with in-game items.
+- **HUD System:** Displays and updates game data in real time.  
